@@ -154,6 +154,7 @@ Publish the website in the LocalHost.
 </br>
     </div>
     </body>
+```
 
 ## OUTPUT:
 ![Alt text](<Screenshot (8).png>)
